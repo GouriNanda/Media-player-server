@@ -1,0 +1,24 @@
+{
+  "allVideos": [
+    {
+      "id": "1",
+      "name": "video",
+      "url": "https://th.bing.com/th/id/OIP.FEqv7YYMNjXtrVYqo7HHzAHaE7?rs=1&pid=ImgDetMain",
+      "link": "https://www.youtube.com/embed/tOM-nWPcR4U"
+    }
+  ],
+  "history": [
+    {
+      "link": "https://www.youtube.com/embed/tOM-nWPcR4U",
+      "timeStamp": "08/21/2024, 03:08:07 PM",
+      "id": 1
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "categoryName": "react",
+      "allVideos": []
+    }
+  ]
+}
